@@ -17,7 +17,7 @@ ____
 - Valiated server hardware and software product designs 
 - Communicated with customers to understand and triage issues after product release
 - Consulted and built relationships with product managers and engineering design teams to diagnose issues and implement fixes
-- Managed multiple concurrent projects, ensuring all were completed by their deadlines
+- Managed multiple concurrent projects, ensuring each project was completed by its deadline
 - Benchmarked systems utilizing Linux command line interface, focusing on GPUs, CPUs, network cards, and storage drives
 -  Wrote system reports for both internal engineering teams and customers, using appropriate tone and language for each audience
 ### Pacific Home Care - Homecare Worker
