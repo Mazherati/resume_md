@@ -14,7 +14,7 @@ ____
 
 ### Supermicro - System Validation Engineer
 ##### August 2021 - Present
-- Valiated server hardware and software product designs 
+- Valiated server hardware and software designs 
 - Communicated with customers to understand and triage issues after product release
 - Consulted and built relationships with product managers and engineering design teams to diagnose issues and implement fixes
 - Managed multiple concurrent projects, ensuring each project was completed by its deadline
@@ -32,7 +32,8 @@ _____
 ### USB Oscilloscope with GUI in C++
 - Led a team of four to develop a cost effective oscilloscope, for students taking classes from home without access to lab equipment
 - Oversaw PCB design and parts selection to make sure costs did not exceed planned budget
-- Designed PCB circuitry, created device prototype, and developed GUI app and device firmware in C++
+- Designed PCB circuitry and created device prototype
+- Developed GUI app and device firmware in C++
 - Wrote user guide and manual in HTML with CSS styling, hosted on [Github][g1]
 
 ### Static Recipes Website in HTML
